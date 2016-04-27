@@ -1,1 +1,39 @@
-/*Inserta tu css aqui*/
+/*estilos generales*/
+*{
+	font-family: "Open Sans";
+}
+body  {
+background: linear-gradient(to bottom, black 0%,black 50%,#000000 50%,white 50%,white 100%);
+}
+body{
+	background-color: #dfdfdf;
+    background-image: -webkit-linear-gradient(top,#dddbd1,#d2dbdc);
+    background-image: linear-gradient(to bottom,#dddbd1,#d2dbdc);
+}
+.rosa{
+	color: #E54CB3;
+}
+.cyan{
+	color: #35D0C0;
+}
+.celeste{
+	color: #7CCFF2;
+}
+.cel-light{
+	color: #70CDF2;
+}
+.ocre{
+	color: #ECC942;
+}
+.v-light{
+	color: #5DDACE;
+}
+.bg-gris{
+	background-color: #EEEEEE;
+}
+.bg-enviado{
+	background-color: #DCF8C6;
+}
+.bg-send{
+	background-color: #F2F0EE;
+}
